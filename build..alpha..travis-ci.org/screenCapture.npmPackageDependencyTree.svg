@@ -1,0 +1,29 @@
+<svg height="414" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="414" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">1 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ public-ip@2.3.3 </tspan>
+<tspan x="10" y="90">  ├─┬ dns-socket@1.6.1 </tspan>
+<tspan x="10" y="106">  │ └─┬ dns-packet@1.1.1 </tspan>
+<tspan x="10" y="122">  │   └── ip@1.1.5 </tspan>
+<tspan x="10" y="138">  ├─┬ got@6.7.1 </tspan>
+<tspan x="10" y="154">  │ ├─┬ create-error-class@3.0.2 </tspan>
+<tspan x="10" y="170">  │ │ └── capture-stack-trace@1.0.0 </tspan>
+<tspan x="10" y="186">  │ ├── duplexer3@0.1.4 </tspan>
+<tspan x="10" y="202">  │ ├── get-stream@3.0.0 </tspan>
+<tspan x="10" y="218">  │ ├── is-redirect@1.0.0 </tspan>
+<tspan x="10" y="234">  │ ├── is-retry-allowed@1.1.0 </tspan>
+<tspan x="10" y="250">  │ ├── is-stream@1.1.0 </tspan>
+<tspan x="10" y="266">  │ ├── lowercase-keys@1.0.0 </tspan>
+<tspan x="10" y="282">  │ ├── safe-buffer@5.0.1 </tspan>
+<tspan x="10" y="298">  │ ├── timed-out@4.0.1 </tspan>
+<tspan x="10" y="314">  │ ├── unzip-response@2.0.1 </tspan>
+<tspan x="10" y="330">  │ └─┬ url-parse-lax@1.0.0 </tspan>
+<tspan x="10" y="346">  │   └── prepend-http@1.0.4 </tspan>
+<tspan x="10" y="362">  ├─┬ is-ip@2.0.0 </tspan>
+<tspan x="10" y="378">  │ └── ip-regex@2.1.0 </tspan>
+<tspan x="10" y="394">  └── pify@2.3.0</tspan>
+</text>
+</svg>
