@@ -1,4 +1,7 @@
-# test coverage for  [public-ip (v2.3.3)](https://github.com/sindresorhus/public-ip#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-public-ip.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-public-ip) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-public-ip.svg)](https://travis-ci.org/npmtest/node-npmtest-public-ip)
+# npmtest-public-ip
+
+#### basic test-coverage for  [public-ip (v2.3.3)](https://github.com/sindresorhus/public-ip#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-public-ip.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-public-ip) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-public-ip.svg)](https://travis-ci.org/npmtest/node-npmtest-public-ip)
+
 #### Get your public IP address - very fast!
 
 [![NPM](https://nodei.co/npm/public-ip.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/public-ip)
@@ -103,7 +106,8 @@
             "node",
             "browser"
         ]
-    }
+    },
+    "bin": {}
 }
 ```
 
